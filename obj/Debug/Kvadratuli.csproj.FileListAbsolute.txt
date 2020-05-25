@@ -1,0 +1,6 @@
+C:\Users\99555\source\repos\Kvadratuli\bin\Debug\Kvadratuli.exe.config
+C:\Users\99555\source\repos\Kvadratuli\bin\Debug\Kvadratuli.exe
+C:\Users\99555\source\repos\Kvadratuli\bin\Debug\Kvadratuli.pdb
+C:\Users\99555\source\repos\Kvadratuli\obj\Debug\Kvadratuli.csprojAssemblyReference.cache
+C:\Users\99555\source\repos\Kvadratuli\obj\Debug\Kvadratuli.exe
+C:\Users\99555\source\repos\Kvadratuli\obj\Debug\Kvadratuli.pdb
